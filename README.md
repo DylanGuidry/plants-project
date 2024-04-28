@@ -14,7 +14,7 @@ This project is a plant information application built using React and Tailwind C
 
 - React
 - Tailwind CSS
-- [Plant API](https://www.plant.id/api](https://perenual.com/docs/api))
+- [Plant API](https://www.plant.id/api](https://perenual.com/docs/api)](https://perenual.com/docs/api))
 
 ## Installation
 
