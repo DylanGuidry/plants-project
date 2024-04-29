@@ -4,7 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// we use createRoot instead of render to enable concurrent mode in React
 const root = ReactDOM.createRoot(document.getElementById('root'));
+// we use root.render instead of ReactDOM.render to enable concurrent mode in React
+// this will render the App component to the root element
 root.render(
   <React.StrictMode>
     <App />
